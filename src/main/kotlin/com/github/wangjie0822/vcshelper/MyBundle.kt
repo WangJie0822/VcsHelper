@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.wangjie0822.vcshelper
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

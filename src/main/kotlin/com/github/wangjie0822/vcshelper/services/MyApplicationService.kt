@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wangjie0822.vcshelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wangjie0822.vcshelper.MyBundle
 
 class MyApplicationService {
 
